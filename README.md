@@ -38,9 +38,6 @@ This project is a **Cataract Detection System** built using **ResNet50** and **S
 - **Streamlit**: For creating a simple UI.
 - **TensorFlow/Keras**: For deep learning implementation.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
 ---
-🔗 **Developed by [Your Name]**
+🔗 **Developed by [Rohit Jagtap]**
 
